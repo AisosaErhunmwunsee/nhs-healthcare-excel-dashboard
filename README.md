@@ -33,7 +33,5 @@ The dataset contains 1500 simulated healthcare records with messy data including
 
 ## Dashboard Preview
 
-Dashboard.png
-
 ![Dashboard](dashboard.png)
 
